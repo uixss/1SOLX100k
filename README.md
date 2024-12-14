@@ -8,55 +8,44 @@ Una métrica personalizada para evaluar la **legitimidad** y **calidad** de toke
 
 ## 🔑 **Factores Clave**
 
-### 1️⃣ **Seguridad del Contrato** 🛡️
+### 1️⃣ **Seguridad del Contrato** 🛡️  **Peso:** 40%.
 - 🔍 **Fuente del código:** Verifica si el contrato inteligente está **verificado** en exploradores como Etherscan.
 - ✅ **Auditorías:** Confirma si el contrato ha sido auditado por empresas confiables (CertiK, PeckShield, etc.).
 - ⚠️ **Permisos peligrosos:** Revisa funciones sospechosas como:
   - `mint()`, `disableTrading()`, `setFees()`.
 - 🚨 **Honeypots:** Usa herramientas como **Honeypot Checker** para detectar si no puedes vender el token después de comprarlo.
 
-**Peso:** 40%.
-
 ---
 
-### 2️⃣ **Actividad en el Mercado** 📈
+### 2️⃣ **Actividad en el Mercado** 📈 **Peso:** 25%.
 - 💰 **Volumen de trading:** Tokens con un volumen diario **> $10,000** son más confiables.
 - 🔒 **Liquidez bloqueada:** Verifica si la liquidez está bloqueada y el tiempo (usa Unicrypt o Team Finance).
 - 📉 **Slippage:** Tokens con slippage mayor al **10%** son sospechosos.
 
-**Peso:** 25%.
-
 ---
 
-### 3️⃣ **Presencia en Redes Sociales** 🌐
+### 3️⃣ **Presencia en Redes Sociales** 🌐**Peso:** 15%.
 - 📢 **Comunidades activas:** Evalúa cuentas en **Twitter, Telegram o Discord**.
 - 🤖 **Engagement real:** Asegúrate de que no están utilizando bots.
 - 🛑 **Reclamos de estafa:** Busca menciones negativas en foros como **Reddit** o **Bitcointalk**.
 
-**Peso:** 15%.
-
 ---
 
-### 4️⃣ **Equipo y Transparencia** 👥
+### 4️⃣ **Equipo y Transparencia** 👥 **Peso:** 10%.
 - 👤 **Equipo público:** Confirma si el equipo es visible y confiable en plataformas como LinkedIn.
 - 🗺️ **Roadmap:** Evalúa si el proyecto tiene un roadmap realista.
 - 🪙 **Tokenomics:** Analiza cómo se distribuyen los tokens (evita proyectos donde el equipo controla demasiado).
 
-**Peso:** 10%.
-
 ---
 
-### 5️⃣ **Comportamiento On-Chain** 🔗
+### 5️⃣ **Comportamiento On-Chain** 🔗 **Peso:** 10%.
 - 🕵️‍♂️ **Movimientos sospechosos:** Usa herramientas como Etherscan para analizar wallets.
 - 💼 **Concentración de wallets:** Tokens donde pocas wallets tienen más del **20%** son riesgosos.
 - 📜 **Historial de transferencias:** Detecta patrones extraños, como muchas transferencias hacia una wallet específica.
 
-**Peso:** 10%.
-
 ---
 
 ## 🧮 **Fórmula para Calcular el Puntaje**
-
 
 ```
 peso_seguridad = 0.4
