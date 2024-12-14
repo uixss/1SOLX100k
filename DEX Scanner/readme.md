@@ -1,9 +1,5 @@
 # 📊 DexScreener API Integration
 
-Bienvenido a este repositorio, donde se exploran las integraciones con la API de [DexScreener](https://dexscreener.com). Aquí encontrarás ejemplos y descripciones de las funcionalidades más destacadas para trabajar con datos de criptomonedas.
-
----
-
 ## 🔄 Endpoints Implementados
 
 ### ✨ Obtener los últimos perfiles de tokens
@@ -123,20 +119,3 @@ print(data)
 Visita la documentación oficial de la API de DexScreener para obtener más detalles: [DexScreener API Docs](https://dexscreener.com/docs)
 
 ---
-
-## 🌐 Contribuciones
-
-¡Las contribuciones son bienvenidas! Por favor, sigue los pasos a continuación:
-
-1. Haz un fork del repositorio.
-2. Crea una rama nueva (`git checkout -b feature/nueva-feature`).
-3. Realiza los cambios y haz commit (`git commit -m "Agrega nueva feature"`).
-4. Haz un push a la rama (`git push origin feature/nueva-feature`).
-5. Abre un Pull Request.
-
----
-
-## 🙌 Agradecimientos
-
-Gracias por explorar este proyecto. Si te resulta útil, no dudes en darle una estrella ⭐ en GitHub. ¡Tus comentarios y sugerencias son bienvenidos! 🚀
-
