@@ -51,6 +51,8 @@
 ### 4. 📊 **Monitorización de Actividad de Ballenas**
 ### 5. 🚨 **Alertas en Tiempo Real**
 
+---
+
 ## 🛡️ **Cómo Identificar Tokens Sospechosos**
 1. **Revisión del Contrato**  
 2. **Bloqueo de Liquidez** 
