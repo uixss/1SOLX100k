@@ -1,4 +1,4 @@
-# 1SOLX100k
+# 1SOL X **100k** 💸
 
 # 📊 Métrica de Evaluación de Tokens
 
