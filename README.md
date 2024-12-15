@@ -90,17 +90,17 @@
 
 ---
 
-- 📈 Patrones de Gráficos de Memecoins y Estadísticas de Monedas
+# 📈 Patrones de Gráficos de Memecoins y Estadísticas de Monedas
 
-# ⚙️ Análisis Básico del Token
+### ⚙️ Análisis Básico del Token
 
 - **Volumen** 📊
 - **Liquidez** 💧
 - **Capitalización de Mercado** 💰
 
-# 💰 Capitalización de Mercado
-# 📊 Volumen
-# 💧 Liquidez
-# 🌐 Evaluación de Presencia Social
-# 🔍 Cómo Evaluar la Posición Social
-# ✅ Obtén Información Interna en TG/X
+### 💰 Capitalización de Mercado
+### 📊 Volumen
+### 💧 Liquidez
+### 🌐 Evaluación de Presencia Social
+### 🔍 Cómo Evaluar la Posición Social
+### ✅ Obtén Información Interna en TG/X
