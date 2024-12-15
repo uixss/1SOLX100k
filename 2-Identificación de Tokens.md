@@ -3,7 +3,7 @@
 Esta guía describe cómo detectar **tokens sospechosos** o **rug-pulls** (proyectos diseñados para estafar) analizando varios aspectos clave del contrato, el mercado y las actividades on-chain.
 
 
-<img src="./../img/id.pong" alt="ig" style="display: block; margin: 0 auto;">
+<img src="(https://github.com/uixss/1SOLX100k/blob/main/img/id.png)" alt="ig" style="display: block; margin: 0 auto;">
 
 ---
 
