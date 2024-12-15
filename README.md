@@ -54,9 +54,37 @@
 ---
 
 ## 🛡️ **Cómo Identificar Tokens Sospechosos**
+
+---
+
 1. **Revisión del Contrato**  
 2. **Bloqueo de Liquidez** 
 3. **Distribución de Tokens**  
 4. **Comportamiento de Precios**  
 5. **Actividad de los Desarrolladores**  
+
+---
  
+# 📊 Estrategia para Analizar Activos y Patrón de Inversión de Ballenas
+
+## 🏦 Beneficios del Análisis
+
+- 🏋️ **Toma de decisiones informada** 
+- 📈 **Identificación de oportunidades**
+- 🛠️ **Minimiza riesgos**
+
+--
+
+## 💰 DeBank: Visualización de Activos y Transacciones
+
+- 🔍 **Búsqueda de direcciones** 
+- 📊 **Análisis completo** 
+- 🌐 **Interfaz amigable** 
+
+
+## 🎯 Arkham: Rastreo Avanzado de Billeteras
+
+- 🔎 **Identificación de ballenas:** 
+- 🔢 **Análisis de patrones:** Observa comportamientos específicos, como compras masivas o ventas escalonadas.
+- 🔧 **Herramientas de visualización:** Genera gráficos interactivos para entender movimientos de capital.
+
