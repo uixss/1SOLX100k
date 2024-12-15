@@ -4,11 +4,11 @@
 
 ## 🔑 **Factores Clave**
 
-### 1️⃣ **Seguridad del Contrato** 🛡️  
-### 2️⃣ **Actividad en el Mercado** 📈
-### 3️⃣ **Presencia en Redes Sociales** 🌐
-### 4️⃣ **Equipo y Transparencia** 👥 
-### 5️⃣ **Comportamiento On-Chain** 🔗 
+- 1️⃣ **Seguridad del Contrato** 🛡️  
+- 2️⃣ **Actividad en el Mercado** 📈
+- 3️⃣ **Presencia en Redes Sociales** 🌐
+- 4️⃣ **Equipo y Transparencia** 👥 
+- 5️⃣ **Comportamiento On-Chain** 🔗 
 
 ---
 
@@ -18,10 +18,10 @@
 
 ## 🛠️ **Aspectos a Evaluar**
 
-### 1️⃣ **Análisis del Contrato** 🛡️
-### 2️⃣ **Análisis del Mercado** 📈
-### 3️⃣ **Comportamiento On-Chain** 🔗
-### 4️⃣ **Actividad en Redes Sociales** 🌐
+- 1️⃣ **Análisis del Contrato** 🛡️
+- 2️⃣ **Análisis del Mercado** 📈
+- 3️⃣ **Comportamiento On-Chain** 🔗
+- 4️⃣ **Actividad en Redes Sociales** 🌐
 
 ## 🛑 **Indicadores Comunes de Rug-Pulls**
 - 🚩 **Alta tasa de transacción** 
@@ -45,11 +45,11 @@
 
 ## 📌 **Recursos Clave**
 
-### 1. 🔍 **Análisis de Contratos y Tokens**
-### 2. 📈 **Análisis de Liquidez y Trading**
-### 3. 🔗 **Exploración On-Chain**
-### 4. 📊 **Monitorización de Actividad de Ballenas**
-### 5. 🚨 **Alertas en Tiempo Real**
+- 🔍 **Análisis de Contratos y Tokens**
+- 📈 **Análisis de Liquidez y Trading**
+- 🔗 **Exploración On-Chain**
+- 📊 **Monitorización de Actividad de Ballenas**
+- 🚨 **Alertas en Tiempo Real**
 
 ---
 
@@ -57,11 +57,11 @@
 
 ---
 
-1. **Revisión del Contrato**  
-2. **Bloqueo de Liquidez** 
-3. **Distribución de Tokens**  
-4. **Comportamiento de Precios**  
-5. **Actividad de los Desarrolladores**  
+- **Revisión del Contrato**  
+- **Bloqueo de Liquidez** 
+- **Distribución de Tokens**  
+- **Comportamiento de Precios**  
+- **Actividad de los Desarrolladores**  
 
 ---
  
@@ -88,3 +88,19 @@
 - 🔢 **Análisis de patrones:** Observa comportamientos específicos, como compras masivas o ventas escalonadas.
 - 🔧 **Herramientas de visualización:** Genera gráficos interactivos para entender movimientos de capital.
 
+---
+
+- 📈 Patrones de Gráficos de Memecoins y Estadísticas de Monedas
+
+# ⚙️ Análisis Básico del Token
+
+- **Volumen** 📊
+- **Liquidez** 💧
+- **Capitalización de Mercado** 💰
+
+# 💰 Capitalización de Mercado
+# 📊 Volumen
+# 💧 Liquidez
+# 🌐 Evaluación de Presencia Social
+# 🔍 Cómo Evaluar la Posición Social
+# ✅ Obtén Información Interna en TG/X
