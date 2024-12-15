@@ -85,8 +85,8 @@
 ## 🎯 Arkham: Rastreo Avanzado de Billeteras
 
 - 🔎 **Identificación de ballenas:** 
-- 🔢 **Análisis de patrones:** Observa comportamientos específicos, como compras masivas o ventas escalonadas.
-- 🔧 **Herramientas de visualización:** Genera gráficos interactivos para entender movimientos de capital.
+- 🔢 **Análisis de patrones** 
+- 🔧 **Herramientas de visualización**
 
 ---
 
